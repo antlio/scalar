@@ -192,7 +192,7 @@ const checkIfClientIsFeatured = (client: HttpClientState) =>
   );
 }
 .code-languages-background {
-  border-radius: 9px;
+  border-radius: 13px;
   position: relative;
   background: var(
     --theme-code-languages-background-supersede,
